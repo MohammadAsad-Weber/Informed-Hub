@@ -1,5 +1,5 @@
 # Informed Hub - A Daily News App
-Stay updated with the latest news using this sleek, user-friendly app. Tt brings headlines, categories, and breaking stories directly to your fingertips for easy access.
+Stay updated with the latest news using this sleek, user-friendly app.It brings headlines, categories, and breaking stories directly to your fingertips for easy access.
 
 ### Inspiration
 
